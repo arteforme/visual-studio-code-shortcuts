@@ -6,4 +6,6 @@ Explorer:  **`shift-cmd-E`**
 
 Source Control:  `ctrl-shift-G`
 
-Split Editor:  **`cmd-k`**, **`↑` | `→` | `↓` | `←`**
+# Editor
+* Split:  **`cmd-k`**, **`↑` | `→` | `↓` | `←`**
+* Move to Next Group:  **`ctrl-cmd-→`**
