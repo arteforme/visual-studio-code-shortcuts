@@ -9,3 +9,7 @@ Source Control:  `ctrl-shift-G`
 # Editor
 * Split:  **`cmd-k`**, **`↑` | `→` | `↓` | `←`**
 * Move to Next Group:  **`ctrl-cmd-→`**
+
+# Go TO
+* Line:  **`ctrl-g`**
+* Last Edit Location:  **`cmd-k, cmd-q`**
