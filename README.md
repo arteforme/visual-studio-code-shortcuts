@@ -9,6 +9,8 @@ Source Control:  `ctrl-shift-G`
 # Editor
 * Split:  **`cmd-k`**, **`↑` | `→` | `↓` | `←`**
 * Move to Next Group:  **`ctrl-cmd-→`**
+* Find: **`cmd-f`**
+* Replace: **`option-cmd-f`**
 
 # Go TO
 * Line:  **`ctrl-g`**
